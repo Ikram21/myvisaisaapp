@@ -1,6 +1,6 @@
 # myvisaisaapp
 
-I have created all four screens acording to design main focus was on Passport photoand selfie
+I have created all four screens acording to design main focus was on Passport photo and selfie
 
 four screens are
 IdScanScreen.js
